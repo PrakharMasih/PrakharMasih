@@ -1,3 +1,4 @@
+![logo](https://github.com/PrakharMasih/PrakharMasih/blob/main/mario.gif)
 <h1 align="center">Hi 👋, I'm Prakhar Masih</h1>
 <h3 align="center">A passionate frontend developer from India. Looking forward for more learning by getting into some good internship. OPEN FOR WORK :)</h3>
 
