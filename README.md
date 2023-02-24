@@ -1,6 +1,6 @@
 ![logo](https://github.com/PrakharMasih/PrakharMasih/blob/main/mario.gif)
 <h1 align="center">Hi 👋, I'm Prakhar Masih</h1>
-<h3 align="center">A passionate frontend developer from India. Looking forward for more learning by getting into some good internship. OPEN FOR WORK :)</h3>
+<h3 align="center">3rd year college student from India. Looking forward for more learning by getting into some good internship. OPEN FOR WORK :)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prakharmasih&label=Profile%20views&color=0e75b6&style=flat" alt="prakharmasih" /> </p>
 
