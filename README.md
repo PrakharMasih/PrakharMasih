@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prakharmasih&label=Profile%20views&color=0e75b6&style=flat" alt="prakharmasih" /> </p>
 
-<img  align="right" alt="coding" src="![image](https://user-images.githubusercontent.com/98174080/221124753-1aa0ea18-bb4f-4616-b278-5bfa248ebffa.png)"  >
+<img width="400px" align="right" alt="coding" src="https://user-images.githubusercontent.com/98174080/221128846-98c1093b-31af-4bd9-b619-edad62afc062.gif" >
 
 - 🔭 I’m currently working on **my personal portfolio Web-App**
 
@@ -29,3 +29,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prakharmasih&show_icons=true&locale=en" alt="prakharmasih" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prakharmasih&" alt="prakharmasih" /></p>
+
+
+
+
+
+
+
