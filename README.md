@@ -3,8 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prakharmasih&label=Profile%20views&color=0e75b6&style=flat" alt="prakharmasih" /> </p>
 
-<img src="![image](https://user-images.githubusercontent.com/98174080/221122893-8777f947-10ed-471e-bf1c-ce01eae3640e.png)
-" width="400px" align="right" alt="coding" >
+<img width="400px" align="right" alt="coding" src="![image](https://user-images.githubusercontent.com/98174080/221122893-8777f947-10ed-471e-bf1c-ce01eae3640e.png)"  >
 
 - 🔭 I’m currently working on **my personal portfolio Web-App**
 
