@@ -1,6 +1,6 @@
 ![logo](https://github.com/PrakharMasih/PrakharMasih/blob/main/mario.gif)
 <h1 align="center">Hi 👋, I'm Prakhar Masih</h1>
-<h3 align="center"><img src="https://user-images.githubusercontent.com/98174080/221159601-724c097c-5527-4f24-b22e-575ad2411cfc.png" width="40px">  3rd year college student from India. Looking forward for more learning by getting into some good internship. OPEN FOR WORK :)</h3>
+<h3 align="center"><img src="https://user-images.githubusercontent.com/98174080/221159601-724c097c-5527-4f24-b22e-575ad2411cfc.png" width="40px">  4th year college student from India. Looking forward for more learning by getting into some good internship. OPEN FOR WORK :)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prakharmasih&label=Profile%20views&color=0e75b6&style=flat" alt="prakharmasih" /> </p>
 
@@ -8,11 +8,9 @@
 
 - 🔭 I’m currently working on **some react projects.**
 
-- 🌱 I’m currently learning **React.js more deeper**
-
-- 👯 I’m looking to collaborate on **some good frontend projects based on react or on purely html, css & js.**
-- I have knowledge of Backend framework **django & django rest framework**. 
-- Builded projects by using **HTML, CSS, JS , React.js, and Django**.
+- 👯 I’m looking to collaborate on **some good frontend projects || Backend Projects based on React.js || Node.js**
+- I have knowledge of Backend framework **Node.js , Express.js**. 
+- Builded projects by using **HTML, CSS, JS , React.js, Django & Node.js**.
 
 - 📫 How to reach me **prakhar2002masih@gmail.com**
 
