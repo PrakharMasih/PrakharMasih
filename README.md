@@ -6,7 +6,7 @@
 
 <img width="350px" align="right" alt="coding" src="https://user-images.githubusercontent.com/98174080/221159132-7f0ab91b-2c7c-4a60-83d0-293d7ad63f3f.gif" >
 
-- 🔭 I’m currently working on **some react projects.**
+- 🔭 I’m currently working on **some full stack (MERN) projects.**
 
 - 👯 I’m looking to collaborate on **some good frontend projects || Backend Projects based on React.js || Node.js**
 - I have knowledge of Backend framework **Node.js , Express.js**. 
