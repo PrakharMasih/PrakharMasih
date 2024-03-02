@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prakharmasih&label=Profile%20views&color=0e75b6&style=flat" alt="prakharmasih" /> </p>
 
-<img width="350px" align="right" alt="coding" src="https://user-images.githubusercontent.com/98174080/221159132-7f0ab91b-2c7c-4a60-83d0-293d7ad63f3f.gif" >
+<!--- <img width="350px" align="right" alt="coding" src="https://user-images.githubusercontent.com/98174080/221159132-7f0ab91b-2c7c-4a60-83d0-293d7ad63f3f.gif" > -->
 
 - 🔭 I’m currently working on **some full stack (MERN) projects.**
 
