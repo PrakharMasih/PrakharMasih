@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Fastapi projects.**
 
-- 👯 I’m looking to collaborate on **some good frontend projects | React.js || Backend Projects based on  || Python || JavaScript **
+- 👯 I’m looking to collaborate on **some good frontend projects | React.js || Backend Projects based on  || Python || JavaScript**
 - I have knowledge of Backend framework **Fastapi, Node.js , Express.js, Django**. 
 - Builded projects by using **HTML, CSS, JS , Python, React.js, Fastapi, Django & Node.js**.
 
