@@ -1,6 +1,6 @@
 ![logo](https://github.com/PrakharMasih/PrakharMasih/blob/main/mario.gif)
 <h1 align="center">Hi 👋, I'm Prakhar Masih</h1>
-<h3 align="center"><img src="https://user-images.githubusercontent.com/98174080/221159601-724c097c-5527-4f24-b22e-575ad2411cfc.png" width="40px">  4th year college student from India. Looking forward for more learning by getting into some good internship. OPEN FOR WORK :)</h3>
+<h3 align="center"><img src="https://user-images.githubusercontent.com/98174080/221159601-724c097c-5527-4f24-b22e-575ad2411cfc.png" width="40px">  College Graduate from India. Looking forward for more learning by getting into some good internship. OPEN FOR WORK :)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prakharmasih&label=Profile%20views&color=0e75b6&style=flat" alt="prakharmasih" /> </p>
 
