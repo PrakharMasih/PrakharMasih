@@ -3,7 +3,7 @@
 <h3 align="center">
   <img src="https://user-images.githubusercontent.com/98174080/221159601-724c097c-5527-4f24-b22e-575ad2411cfc.png" width="40px"> 
   A tech enthusiast from India, always eager to dive into new challenges and expand my skill set. 
-  Open to internships and collaborations to create impactful projects!
+  Open for work and collaborations to create impactful projects!
 </h3>
 
 <p align="center">
@@ -23,7 +23,7 @@ Let's connect and build something innovative together! 🚀
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/prakhar-masih-004ba6214" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prakhar-masih-004ba6214" height="30" width="40" /></a> <a href="https://instagram.com/prakharmasih007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prakharmasih007" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/prakhar-masih-004ba6214" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prakhar-masih-004ba6214" height="30" width="40" /></a> 
 <a href="https://www.leetcode.com/prakhar_0070" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prakhar_0070" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/autogear070" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="autogear070" height="30" width="40" /></a>
 </p>
