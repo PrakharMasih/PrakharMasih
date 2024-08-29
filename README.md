@@ -1,16 +1,23 @@
 ![logo](https://github.com/PrakharMasih/PrakharMasih/blob/main/mario.gif)
-<h1 align="center">Hi 👋, I'm Prakhar Masih</h1>
-<h3 align="center"><img src="https://user-images.githubusercontent.com/98174080/221159601-724c097c-5527-4f24-b22e-575ad2411cfc.png" width="40px">  College Graduate from India. Looking forward for more learning by getting into some good internship. OPEN FOR WORK :)</h3>
+<h1 align="center">Hi there! 👋 I'm Prakhar Masih</h1>
+<h3 align="center">
+  <img src="https://user-images.githubusercontent.com/98174080/221159601-724c097c-5527-4f24-b22e-575ad2411cfc.png" width="40px"> 
+  A tech enthusiast from India, always eager to dive into new challenges and expand my skill set. 
+  Open to internships and collaborations to create impactful projects!
+</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prakharmasih&label=Profile%20views&color=0e75b6&style=flat" alt="prakharmasih" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=prakharmasih&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
 <!--- <img width="350px" align="right" alt="coding" src="https://user-images.githubusercontent.com/98174080/221159132-7f0ab91b-2c7c-4a60-83d0-293d7ad63f3f.gif" > -->
 
-- 🔭 I’m currently working on **Fastapi projects.**
+- 🔭 I’m currently working on **FastAPI projects.**
+- 👯 I’m looking to collaborate on **front-end projects with React.js or back-end projects with Python, JavaScript, FastAPI, Node.js, Express.js, or Django.**
+- 💻 Proficient in **HTML, CSS, JavaScript, Python, React.js, FastAPI, Django, Node.js.**
 
-- 👯 I’m looking to collaborate on **some good frontend projects | React.js || Backend Projects based on  || Python || JavaScript**
-- I have knowledge of Backend framework **Fastapi, Node.js , Express.js, Django**. 
-- Builded projects by using **HTML, CSS, JS , Python, React.js, Fastapi, Django & Node.js**.
+Let's connect and build something innovative together! 🚀
+
 
 - 📫 How to reach me **prakhar2002masih@gmail.com**
 
