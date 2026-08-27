@@ -4,7 +4,7 @@
 
 # Hi 👋 I'm Prakhar Masih
 
-### GenAI Engineer · Backend Developer
+### AI Engineer · Backend Developer
 
 **Building production-grade AI systems, agents & scalable backends.**
 
