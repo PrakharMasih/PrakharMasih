@@ -4,11 +4,14 @@
 
 # Hi 👋 I'm Prakhar Masih
 
-### AI Engineer · Backend Developer
+### GenAI Engineer · Backend Developer
 
 **Building production-grade AI systems, agents & scalable backends.**
 
 <p>
+  <a href="https://ai-engineer-prakhar-masih.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit-111827?style=flat-square"/>
+  </a>
   <a href="https://linkedin.com/in/prakhar-masih-004ba6214">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
@@ -33,7 +36,6 @@
 <img src="https://img.shields.io/badge/RAG-Vector%20Search-4B8BBE?style=flat-square"/>
 <img src="https://img.shields.io/badge/AI-Agents-FF6B35?style=flat-square"/>
 <img src="https://img.shields.io/badge/LangChain-1C7C54?style=flat-square"/>
-<img src="https://img.shields.io/badge/Async-Systems-6C63FF?style=flat-square"/>
 
 </div>
 
@@ -91,7 +93,7 @@ Multimodal AI application generating comedy content with text, images, audio and
 
 ### 🔐 Dapp MyEDiary
 
-Decentralized diary application exploring blockchain, Web3 authentication and decentralized applications.
+Decentralized diary application exploring blockchain and Web3 technologies.
 
 **Web3 · Blockchain · JavaScript · React**
 
@@ -115,33 +117,19 @@ Decentralized diary application exploring blockchain, Web3 authentication and de
 
 ---
 
-## 🏗️ What I Build
-
-```text
-        User
-         ↓
-   AI Application
-         ↓
-   ┌─────────────┐
-   │   FastAPI   │
-   │   Backend   │
-   └──────┬──────┘
-          ↓
-   ┌──────┴──────┐
-   ↓             ↓
-  LLMs          RAG
-   ↓             ↓
-Agents       Vector DB
-   └──────┬──────┘
-          ↓
-      Databases
-```
-
----
-
 <div align="center">
 
-### 💻 Build · Learn · Ship · Repeat 🚀
+### 🌐 Explore More
+
+<a href="https://ai-engineer-prakhar-masih.vercel.app/">
+<img src="https://img.shields.io/badge/Visit_My_Portfolio-111827?style=for-the-badge"/>
+</a>
+
+<br/><br/>
+
+**Build · Learn · Ship · Repeat 🚀**
+
+<br/>
 
 <img src="https://komarev.com/ghpvc/?username=prakharmasih&label=Profile%20Views&style=flat-square"/>
 
